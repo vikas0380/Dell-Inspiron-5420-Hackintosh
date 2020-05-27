@@ -1,6 +1,6 @@
 # Dell Inspiron 5420 Hackintosh
 
-支持macOS Catalina 10.15.4。其他版本未测试过
+支持macOS Catalina 10.15.5。其他版本未测试过
 
 **使用本配置文件风险自负**
 
